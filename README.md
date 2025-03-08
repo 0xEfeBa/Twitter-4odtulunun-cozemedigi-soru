@@ -1,5 +1,5 @@
 "https://x.com/bengilgin/status/1898083572805751027"
-Twit de bahselin 7.sınıf matematik sorusunun python dilinde kodlanmış hali xD
+Twit de bahsedilen 7.sınıf matematik sorusunun python dilinde kodlanmış hali xD
 
 
 
